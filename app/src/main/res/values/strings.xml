@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Habib App</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="time_data">12:00</string>
+    <string name="poetry">Hum dua karte hain khuda se,Ki wo aap jaisa dost aur na banaye,Ek cartoon jaisi cheez hai humare paas,Kahin wo bhi common na ho jaye!</string>
+    <string name="mirza_galib">Mirza Galib</string>
+    <string name="add_property">Add Property</string>
+    <string name="add_poetry">Add Poetry</string>
+    <string name="settings">Settings</string>
+    <string name="add_poetry_data">Add Poetry Data</string>
+    <string name="add_poet_name">Add Poet Name</string>
+    <string name="update_poetry">Update Poetry</string>
+</resources>
